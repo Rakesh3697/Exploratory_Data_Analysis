@@ -48,10 +48,10 @@ Run the Jupyter Notebook or Python script to execute the EDA steps.
 
 Dependencies:
 
-pandas
-numpy
-matplotlib
-seaborn
+* pandas
+* numpy
+* matplotlib
+* seaborn
 
 License:
 This project is licensed under the MIT License. See the LICENSE file for details.
