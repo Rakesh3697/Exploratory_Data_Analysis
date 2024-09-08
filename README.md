@@ -46,12 +46,13 @@ Ensure you have the required libraries installed (pandas, numpy, matplotlib, sea
 Place your dataset in the specified path (/content/coaster_db.csv).
 Run the Jupyter Notebook or Python script to execute the EDA steps.
 
-Dependencies
+Dependencies:
 
 pandas
 numpy
 matplotlib
 seaborn
-License
+
+License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
